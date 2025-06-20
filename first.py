@@ -53,7 +53,7 @@ def sifi_calculator():
             elif choice == '8':
                 print(f"Result: {math.cos(radians)}")
             elif choice == '9':
-                print(f"Result: {math.tan(radians)}")
+                print(f"Resuldt: {math.tan(radians)}")
         else:
             print("Invalid input. Please try again.")
 
